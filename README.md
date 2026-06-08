@@ -1,15 +1,16 @@
-# Contribution [#]: [Issue Title]
+# Contribution [1]: [🐛 shortcuts: Shortcuts displayed in sidebar with its own hidden scrollbar]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** [1]  
+**Student:** [Timothy Phan]  
+**Issue:** [https://github.com/backstage/community-plugins/issues/4841]  
+**Status:** [Phase I] [Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose issue #4841 🐛 shortcuts: Shortcuts displayed in sidebar with its own hidden scrollbar because I am familiar with the languages used in the codebase which is Typescript and the issue looks to be a css issue which is something that I want to practice over again as I am working on improving my css skills. From reading the issue thread, I have an understanding of what the problem is and it is related to how the shortcuts displayed in the sidebar essentially become hidden from the sidebar due to the device window being too small. My contribution will improve the shortcuts sidebar css and make it more responsive so that the shortcuts are always visible on the sidebar no matter the device resolution. I left a comment on the issue introducing myself.
+
 
 ---
 
